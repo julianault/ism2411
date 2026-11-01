@@ -1,3 +1,8 @@
+# Reflection Questions:
+# 1. The most surprising thing about Python lists is how easy it is to add, remove, and organize items without having to change the entire list. I also thought it was interesting how negative indexing lets you access items starting from the end.
+
+# 2. At my job as a sales associate at Kali Rose Boutique, a Python list could help keep track of products, prices, and inventory.Instead of manually updating everything in Excel, I could use lists to organize products, calculate totals, and apply discount much faster.
+
 # Exercise 1
 inventory = ["pen", "notebook", "stapler", "tape", "marker"]
 
